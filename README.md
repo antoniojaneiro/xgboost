@@ -1,6 +1,6 @@
 # XGBoost
 
-This repository provides resources and code for training deep neural networks using Keras and TensorFlow. The focus is on practical implementations, model evaluations, and the integration of various techniques to enhance model performance.
+This repository provides resources and code for training XGBoost models. The focus is on practical implementations, model evaluations, and the integration of various techniques to enhance model performance.
 
 ## Features
 
