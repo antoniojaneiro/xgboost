@@ -10,4 +10,4 @@ This repository provides resources and code for training XGBoost models. The foc
 - **Encoding Discussion**: A discussion on whether to use Ordinal Encoding or One-Hot Encoding when training an XGBoost model.
 
 ## Notebooks
-- xgboost_exercise: An exercise using adult data where I implement Machine Learning techniques to build XGboost models and discuss encoding techniques.
+- xgboost_gridsearch_cv: An exercise using adult data where I implement Machine Learning techniques to build XGboost models and discuss encoding techniques.
