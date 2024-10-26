@@ -9,7 +9,7 @@ This repository provides resources and code for training XGBoost models. The foc
 - **Model Training**: Techniques to build a great XGboost model.
 - **Encoding Discussion**: A discussion on whether to use Ordinal Encoding or One-Hot Encoding when training an XGBoost model.
 
-  ## Notebooks
+## Notebooks
 
 - **xgboost_gridsearch_cv**: This notebook explores hyperparameter tuning with a manual GridSearchCV on the Adult dataset. It covers essential machine-learning techniques for building XGBoost models, including discussions on data encoding strategies and model evaluation.
 
